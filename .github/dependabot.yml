@@ -7,7 +7,7 @@ updates:
   schedule:
     interval: "daily"
   commit-message:
-    prefix: "build(deps): "
+    prefix: "feat(deps): "
   labels:
   - dependencies
   - docker
@@ -36,7 +36,7 @@ updates:
   schedule:
     interval: "daily"
   commit-message:
-    prefix: "build(deps): "
+    prefix: "feat(deps): "
   labels:
   - dependencies
   - python
